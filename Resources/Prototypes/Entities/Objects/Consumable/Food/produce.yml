@@ -493,6 +493,7 @@
 - type: entity
   name: cabbage
   parent: FoodProduceBase
+  noSpawn: true
   id: FoodCabbage
   description: Ewwwwwwwwww. Cabbage.
   components:
@@ -745,6 +746,7 @@
 - type: entity
   name: potato
   parent: FoodProduceBase
+  noSpawn: true
   id: FoodPotato
   description: The space Irish starved to death after their potato crops died. Sadly they were unable to fish for space carp due to it being the queen's space. Bringing this up to any space IRA member will drive them insane with anger.
   components:
@@ -995,6 +997,7 @@
   name: apple
   parent: FoodProduceBase
   id: FoodApple
+  noSpawn: true
   description: It's a little piece of Eden.
   components:
   - type: FlavorProfile
@@ -2416,6 +2419,7 @@
 - type: entity
   name: pumpkin
   parent: FoodProduceBase
+  noSpawn: true
   id: FoodPumpkin
   description: A large, orange... berry. Seriously.
   components:

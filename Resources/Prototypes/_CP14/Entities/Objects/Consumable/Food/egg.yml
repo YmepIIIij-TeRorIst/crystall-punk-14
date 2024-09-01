@@ -96,5 +96,6 @@
   - type: RandomSprite
     available:
       - random:
-          brown: ""
           icon: ""
+          icon2: ""
+          icon3: ""
