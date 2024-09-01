@@ -40,8 +40,8 @@ entities:
         min: 60
         max: 600
       entries:
-      - visuals: Rains
-      - visuals: Storm
+      - visuals: CP14Rain
+      - visuals: CP14Storm
     - type: CP14DayCycle
       timeEntries:
       - duration: 80
